@@ -8,7 +8,6 @@ int main() {
 
     cout << myString << endl;
 
-    
     cout << myString[4] << endl;
 
     return 0;
